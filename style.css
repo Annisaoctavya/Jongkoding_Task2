@@ -1,0 +1,102 @@
+.Latarawal{
+    background-color: white;
+}
+#judul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+    margin: 0px;
+    font-size: 50px;
+    height: 100px;
+}
+.jalan{
+    display: flex;
+    background-color: gray;
+    color: whitesmoke;
+    height: 25px;
+    align-items: center;
+}
+.nav-kiri{
+    width: 80%;
+    margin-left: 30px;
+}
+
+.Navbar{
+    display: flex;
+    height: 50px;
+    align-items: center;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.a{
+    padding: 10px;
+    border-radius: 5px;
+    background-color: azure;
+    margin-right: 10px;
+}
+.b{
+    padding: 10px;
+    border-radius: 5px;
+    background-color: azure;
+    margin-right: 10px;
+}
+.c{
+    padding: 10px;
+    border-radius: 5px;
+    background-color: azure;
+    margin-right: 10px;
+}
+.d{
+    padding: 10px;
+    border-radius: 5px;
+    background-color: azure;
+    margin-right: 10px;
+}
+.d{
+    padding: 10px;
+    border-radius: 5px;
+    background-color: azure;
+    margin-left: 10px;
+}
+.e{
+    margin-left: 40px;
+    background-color: azure;
+    padding: 10px;
+    border-radius: 5px;
+}
+.profil{
+    align-items: center;
+    margin-left: 10px;
+}
+.rounded-image{
+    width: 50px;
+    height: 50px;
+    border-radius: 200px;
+    -webkit-border-radius: 200px;
+    -moz-border-radius: 200px;
+}
+.nav-kanan{
+    display: flex;
+}
+.content{
+    display: flex;
+}
+.sidebar-kiri{
+    width: 20%;
+    background-color: blueviolet;
+}
+.content-tengah{
+    width: 60%;
+}
+.sidebar-kanan{
+    width: 20%;
+    background-color: chartreuse;
+}
+.footer{
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
